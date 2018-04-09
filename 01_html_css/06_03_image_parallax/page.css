@@ -18,9 +18,11 @@
 /*6. make a parallax effect by fixing the background-attachment*/
 .my-parallax{
 	
-
-
-
+Height: 80vh;
+background-image: url(galaxy_background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
 
 	
 }

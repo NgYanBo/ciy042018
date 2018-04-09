@@ -1,0 +1,40 @@
+.Background {
+    Background-color: Grey;
+}
+
+
+.H1 {
+    color: yellow;
+    text-shadow: 1px 1px #000000;
+    Font-size:40px;
+}
+.H2 {
+
+    font: bold;
+    font-size: 30px;
+    text-decoration: line-through;
+    margin:auto;
+
+}
+
+
+.thetruth {
+
+    font-size: 30px;
+    font-family: "Arial";
+    font-style: italic;
+    color: red;
+    margin: auto;
+    text-shadow: 2px 2px #000000;
+
+    -webkit-animation-name: blinker;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: cubic-bezier(.5, 0, 1, 1);
+    -webkit-animation-duration: 0.5s;
+}
+
+@-webkit-keyframes blinker {
+    from { opacity: 1.0; }
+    to { opacity: 0.0; }
+  }
+  

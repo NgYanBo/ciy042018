@@ -18,8 +18,9 @@
 }
 .my-hr{
 	max-width: 300px;
-	border: 10px solid orangered;
+	border: 5px solid navy;
 }
+
 
 /*1. change the display to: block*/
 /*2. set width and height as: 200px*/
@@ -29,15 +30,26 @@
 /*6. shift the image up with margin-top: -100px*/
 .my-face{
 	
-
-
-
-
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	border-radius: round;
+	border: 1px solid #aaa;
+	margin-top: -100px;
 
 }
 
 /*stripe generator: http://www.stripegenerator.com/*/
 /*7. set background image as: stripe_background.png*/
 .my-body{
+
+	background-image: url("stripe_background.png");
 	
+
+}
+
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
