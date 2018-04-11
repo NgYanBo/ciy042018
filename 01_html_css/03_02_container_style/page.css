@@ -16,7 +16,6 @@
 /*7. create an inner padding (space) of size: 1rem*/
 /*8. create a shadow: 5px 5px 5px #aaa*/
 .my-container{
-
     border-color: #aaa;
     background-color: white;
     max-width: 600px;
@@ -25,7 +24,6 @@
     margin: auto;
     padding: 1rem;
     box-shadow: 5px 5px 5px #aaa;
-
 }
 
 /*9. change text color to: orangered*/

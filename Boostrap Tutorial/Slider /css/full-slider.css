@@ -1,0 +1,34 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+
+
+
+.navbar.navbar-custom {
+  background-color: transparent;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+  background-color: white;
+}
+
+.aboutsection {
+
+  margin:"0";
+  box-sizing: border-box;
+  margin-top: 3rem;
+
+
+}

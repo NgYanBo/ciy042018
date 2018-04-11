@@ -69,9 +69,9 @@
   width: 250%;
   top: -25%;
   left: -25%;
-  background: url("stripe_background.png") repeat;
-  animation: backgroundScroll 2s linear infinite;
-  transform: rotate(180deg) scale(1);
+  background: url("galaxy.jpeg") repeat;
+  animation: backgroundScroll 15s linear infinite;
+  transform: rotate(45deg) scale(1);
   transform-origin: center center;
   z-index: 1000;
 
