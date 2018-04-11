@@ -1,14 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
 
-.my-container{
-	border: 1px solid #aaa;
-	background-color: white;
-	max-width: 400px;
-	margin: 110px auto 10px auto;
-	padding: 1rem;
-	box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
-	font-family: "Lato";
-}
+
 .my-container h1{
 	text-align: center;
 }
@@ -17,8 +9,9 @@
 	margin: auto;
 }
 .my-hr{
-	max-width: 300px;
-	border: 5px solid navy;
+	max-width: 500px;
+	border: 3px solid navy;
+	margin-top: -5px;
 }
 
 
@@ -40,12 +33,12 @@
 	
 	display: block;
 	position: fixed;
-	width: 200px;
-	height: 200px;
-	margin: auto;
-	border-radius: 70%;
+	width: 190px;
+	height: 190px;
+	border-radius: 60%;
 	border: 1px solid #aaa;
 	margin-top: -180px;
+	margin-left: -5px;
 	z-index:2000;
 
 	
@@ -58,9 +51,9 @@
 	background-color: white;
 	top: 50%;
 	left: 50%;
-	margin-top: -50px;
-	margin-left: -75px;
-	padding: 1rem;
+	margin-top: -110px;
+	margin-left: -150px;
+	padding: 4rem;
 	box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
 	font-family: "Lato";
 	z-index: 1500;
