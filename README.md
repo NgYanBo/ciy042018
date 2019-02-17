@@ -1,4 +1,5 @@
 # ciy042018
 NUS-ISS CoderInMe 
+HTML, CSS & JavaScript Workshop
 
-Profile Page done in class is under the folder Bootstrap
+Profile Page Assignment is under the folder Bootstrap
